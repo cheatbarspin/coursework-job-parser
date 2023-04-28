@@ -8,6 +8,7 @@ packages = [{include = "coursework_job_parser"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+requests = "^2.29.0"
 
 
 [build-system]
