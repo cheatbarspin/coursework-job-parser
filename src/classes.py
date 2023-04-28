@@ -92,7 +92,7 @@ class JSONSaver:
     def __init__(self, filename):
         """Инициализатор класса JSONSaver"""
         self.__filename = filename
-        if os.stat(self.__filename).st_size == 0:
+        if not os.path.exists(self.__filename):
             with open(self.__filename, 'w', encoding="utf-8") as file:
                 json.dump([], file, indent=4, ensure_ascii=False)
 
@@ -106,7 +106,7 @@ class JSONSaver:
 
     def add_vacancies(self, data):
         """Метод для добавления вакансий"""
-        if os.path.exists(self.__filename):
+        if os.stat(self.__filename).st_size != 0:
             with open(self.__filename, 'r', encoding="utf-8") as fl:
                 res = json.load(fl)
                 res.append(data)

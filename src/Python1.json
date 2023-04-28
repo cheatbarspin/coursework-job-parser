@@ -1,126 +1,5 @@
 [
     {
-        "name": "Data Engineer",
-        "salary": [
-            332000,
-            498000
-        ],
-        "employer": "4CV Recruitment Services",
-        "link": "https://hh.ru/vacancy/79110745"
-    },
-    {
-        "name": "Python developer (Middle+)",
-        "salary_min": 300000,
-        "salary_max": 360000,
-        "employer": "Вайт Код",
-        "link": "https://hh.ru/vacancy/78661254"
-    },
-    {
-        "name": "Junior Data scientist (Аналитик)",
-        "salary_min": 60000,
-        "salary_max": null,
-        "employer": "Займиго МФК",
-        "link": "https://hh.ru/vacancy/78937901"
-    },
-    {
-        "name": "Python Developer",
-        "salary_min": 100000,
-        "salary_max": 200000,
-        "employer": "ORBIS",
-        "link": "https://hh.ru/vacancy/79724327"
-    },
-    {
-        "name": "Разработчик ML",
-        "salary_min": 200000,
-        "salary_max": null,
-        "employer": "ГК ТВЕМА",
-        "link": "https://hh.ru/vacancy/79822638"
-    },
-    {
-        "name": "Разработчик Python / DRF (Junior)",
-        "employer": "ДВГ Проджект",
-        "link": "https://hh.ru/vacancy/79724056"
-    },
-    {
-        "name": "Fullstack Python developer (Казань)",
-        "salary_min": 130000,
-        "salary_max": 200000,
-        "employer": "Колл-Тулз",
-        "link": "https://hh.ru/vacancy/79829403"
-    },
-    {
-        "name": "Junior Data Analyst",
-        "salary_min": null,
-        "salary_max": 150000,
-        "employer": "Skyeng",
-        "link": "https://hh.ru/vacancy/79850331"
-    },
-    {
-        "name": "Middle Python-разработчик",
-        "salary_min": 170000,
-        "salary_max": 220000,
-        "employer": "Blue underlined link",
-        "link": "https://hh.ru/vacancy/79117710"
-    },
-    {
-        "name": "Middle+ Backend разработчик Python/Django",
-        "salary_min": 190000,
-        "salary_max": 220000,
-        "employer": "ЧУ ДО Московская школа программистов",
-        "link": "https://hh.ru/vacancy/79895487"
-    },
-    {
-        "name": "Python-разработчик (middle), удаленно",
-        "employer": "Транспарент Дил",
-        "link": "https://hh.ru/vacancy/79781403"
-    },
-    {
-        "name": "Data Scientist / Python разработчик",
-        "employer": "ЗАЗЕКС",
-        "link": "https://hh.ru/vacancy/78771412"
-    },
-    {
-        "name": "Data Scientist",
-        "employer": "СБЕР",
-        "link": "https://hh.ru/vacancy/79311788"
-    },
-    {
-        "name": "Python разработчик (ДПП)",
-        "employer": "Иннотех, Группа компаний",
-        "link": "https://hh.ru/vacancy/79709475"
-    },
-    {
-        "name": "Разработчик Python (Департамент развития отношений с клиентами)",
-        "employer": "Банк Русский Стандарт",
-        "link": "https://hh.ru/vacancy/79778373"
-    },
-    {
-        "name": "Python developer (FastAPI)",
-        "salary_min": null,
-        "salary_max": 250000,
-        "employer": "КИБЕР-РОМ",
-        "link": "https://hh.ru/vacancy/78739557"
-    },
-    {
-        "name": "Разработчик Python",
-        "employer": "Инрэко ЛАН",
-        "link": "https://hh.ru/vacancy/79719058"
-    },
-    {
-        "name": "Программист Python",
-        "salary_min": 100000,
-        "salary_max": 120000,
-        "employer": "Энсайн (Nsign.ru)",
-        "link": "https://hh.ru/vacancy/79717231"
-    },
-    {
-        "name": "Middle Backend Developer (Python)",
-        "salary_min": 120000,
-        "salary_max": 220000,
-        "employer": "Betting Software",
-        "link": "https://hh.ru/vacancy/78685384"
-    },
-    {
         "name": "Разработчик Python (PyQt)",
         "salary_min": 150000,
         "salary_max": null,
@@ -128,112 +7,19 @@
         "link": "https://hh.ru/vacancy/78880980"
     },
     {
-        "name": "Data engineer (middle+)",
-        "salary_min": null,
-        "salary_max": 400000,
-        "employer": "Мамаева Ирина Анатольевна",
-        "link": "https://hh.ru/vacancy/79882602"
+        "name": "QA Automation Engineer (Python)",
+        "employer": "Nexign (АО Нэксайн)",
+        "link": "https://hh.ru/vacancy/79527570"
     },
     {
-        "name": "Python backend/desktop разработчик",
-        "employer": "Декаст Инжиниринг",
-        "link": "https://hh.ru/vacancy/79169899"
+        "name": "QA Automation Engineer (Python)",
+        "employer": "Nexign (АО Нэксайн)",
+        "link": "https://hh.ru/vacancy/79527568"
     },
     {
-        "name": "Java/Python разработчик в группу внутренней разработки",
-        "salary_min": 90000,
-        "salary_max": null,
-        "employer": "БалтИнфоКом",
-        "link": "https://hh.ru/vacancy/79889982"
-    },
-    {
-        "name": "Data Analyst (Remote)",
-        "salary": [
-            249000,
-            332000
-        ],
-        "employer": "Novakid Inc",
-        "link": "https://hh.ru/vacancy/79415326"
-    },
-    {
-        "name": "ML-специалист (Junior)",
-        "salary": [
-            83000,
-            166000
-        ],
-        "employer": "ГравиЛинк",
-        "link": "https://hh.ru/vacancy/76086723"
-    },
-    {
-        "name": "Lead Python developer",
-        "salary_min": null,
-        "salary_max": 500000,
-        "employer": "МСК ГРУПП ИС",
-        "link": "https://hh.ru/vacancy/79220062"
-    },
-    {
-        "name": "Разработчик Python (Back Python)",
-        "salary_min": null,
-        "salary_max": 350000,
-        "employer": "Фаворит, Международный кадровый центр",
-        "link": "https://hh.ru/vacancy/79219903"
-    },
-    {
-        "name": "Ведущий Python-developer",
-        "salary_min": 220000,
-        "salary_max": 340000,
-        "employer": "Тензор",
-        "link": "https://hh.ru/vacancy/79670731"
-    },
-    {
-        "name": "Python разработчик",
-        "salary_min": 150000,
-        "salary_max": null,
-        "employer": "X-LAB",
-        "link": "https://hh.ru/vacancy/78707642"
-    },
-    {
-        "name": "Разработчик BI (дата инженер)",
-        "salary_min": 200000,
-        "salary_max": 200000,
-        "employer": "Перспектива",
-        "link": "https://hh.ru/vacancy/79127417"
-    },
-    {
-        "name": "Старший инженер-разработчик Python",
-        "salary_min": 250000,
-        "salary_max": null,
-        "employer": "Технопром",
-        "link": "https://hh.ru/vacancy/79870889"
-    },
-    {
-        "name": "Python разработчик",
-        "employer": "Sitronics Group",
-        "link": "https://hh.ru/vacancy/79718814"
-    },
-    {
-        "name": "Data Science - инженер (IT компания)",
-        "employer": "Byndyusoft",
-        "link": "https://hh.ru/vacancy/79794538"
-    },
-    {
-        "name": "Python разработчик (Senior)",
-        "salary_min": 300000,
-        "salary_max": 400000,
-        "employer": "Бизнес-Азимут",
-        "link": "https://hh.ru/vacancy/79248533"
-    },
-    {
-        "name": "Data Engineer / Дата-инженер (Middle)",
-        "salary_min": 250000,
-        "salary_max": 300000,
-        "employer": "Платформа Больших Данных",
-        "link": "https://hh.ru/vacancy/78954091"
-    },
-    {
-        "name": "Python-разработчик (внутренние проекты)",
-        "employer": "Сима-ленд",
-        "link": "https://hh.ru/vacancy/79699129"
+        "name": "QA Automation Engineer (Python)",
+        "employer": "Nexign (АО Нэксайн)",
+        "link": "https://hh.ru/vacancy/79041925"
     },
     {
         "name": "Python developer (Senior)",
@@ -243,86 +29,252 @@
         "link": "https://hh.ru/vacancy/78661418"
     },
     {
-        "name": "Junior Python Backend Developer",
-        "salary_min": null,
-        "salary_max": 60000,
-        "employer": "АпТрейдер (UpTrader)",
-        "link": "https://hh.ru/vacancy/79688681"
+        "name": "Python-разработчик (Рекомендательная система)",
+        "employer": "Rambler&Co",
+        "link": "https://hh.ru/vacancy/79924865"
     },
     {
-        "name": "Middle Python Backend разработчик",
-        "salary_min": 130000,
-        "salary_max": 200000,
-        "employer": "Юнит",
-        "link": "https://hh.ru/vacancy/79308317"
+        "name": "QA automation engineer (Python)",
+        "employer": "Сервисный центр Транстелематика",
+        "link": "https://hh.ru/vacancy/79924402"
     },
     {
-        "name": "Data Analyst",
-        "salary_min": 230000,
+        "name": "Руководитель группы автотестирования Python/Team lead Python",
+        "employer": "Ростелеком",
+        "link": "https://hh.ru/vacancy/79915764"
+    },
+    {
+        "name": "Client-server Programmer (Python)",
+        "employer": "Lesta Games",
+        "link": "https://hh.ru/vacancy/79047877"
+    },
+    {
+        "name": "Middle Backend Developer (Python)",
+        "salary_min": 160000,
         "salary_max": null,
-        "employer": "Americor Funding Inc",
-        "link": "https://hh.ru/vacancy/79225796"
+        "employer": "Аликсон",
+        "link": "https://hh.ru/vacancy/79923122"
     },
     {
-        "name": "Python-разработчик систем сбора",
+        "name": "Middle+ Python Developer (backend)",
+        "employer": "Агент Умный полис",
+        "link": "https://hh.ru/vacancy/78898631"
+    },
+    {
+        "name": "Разработчик (Backend developer / Python)",
+        "salary_min": 100000,
+        "salary_max": null,
+        "employer": "Статус",
+        "link": "https://hh.ru/vacancy/78897703"
+    },
+    {
+        "name": "Python-разработчик (middle), удаленно",
+        "employer": "Транспарент Дил",
+        "link": "https://hh.ru/vacancy/79781403"
+    },
+    {
+        "name": "Руководитель отдела разработки (backend/python)",
+        "employer": "К-ТЕХНОЛОГИИ",
+        "link": "https://hh.ru/vacancy/77237581"
+    },
+    {
+        "name": "Senior Python developer (Ml команда)",
+        "employer": "Домклик",
+        "link": "https://hh.ru/vacancy/73984561"
+    },
+    {
+        "name": "Программист С/С++ (со знанием Python)",
+        "employer": "Мастерская инструментов разработки",
+        "link": "https://hh.ru/vacancy/79123003"
+    },
+    {
+        "name": "Программист Python (Data Engineer)",
+        "salary_min": null,
+        "salary_max": 180000,
+        "employer": "Enjoypro",
+        "link": "https://hh.ru/vacancy/78664757"
+    },
+    {
+        "name": "Senior QA Automation (Python)",
+        "employer": "Whoosh (ООО Вуш)",
+        "link": "https://hh.ru/vacancy/76451004"
+    },
+    {
+        "name": "Разработчик на языке программирования Python",
+        "employer": "Компьютерная Академия Top",
+        "link": "https://hh.ru/vacancy/79266189"
+    },
+    {
+        "name": "Fullstack Developer/Программист Python Web",
+        "employer": "ПКФ Инавтоматика",
+        "link": "https://hh.ru/vacancy/79537595"
+    },
+    {
+        "name": "SDET Python (B4N)",
+        "employer": "Лаборатория Касперского",
+        "link": "https://hh.ru/vacancy/79924782"
+    },
+    {
+        "name": "Python-разработчик в R&D отдел",
         "salary_min": 100000,
         "salary_max": 150000,
         "employer": "Селфсек",
-        "link": "https://hh.ru/vacancy/49299293"
+        "link": "https://hh.ru/vacancy/72687478"
     },
     {
-        "name": "Senior Python разработчик",
+        "name": "Разработчик Python (Облачные технологии)",
         "salary_min": 200000,
         "salary_max": 350000,
-        "employer": "Carbon Soft",
-        "link": "https://hh.ru/vacancy/78808681"
+        "employer": "Кадровый центр Президент",
+        "link": "https://hh.ru/vacancy/79911641"
     },
     {
-        "name": "Инженер-тестировщик",
+        "name": "Team leader (Python/Go)",
+        "salary_min": null,
+        "salary_max": 270000,
+        "employer": "Сайтсофт",
+        "link": "https://hh.ru/vacancy/79909535"
+    },
+    {
+        "name": "Разработчик инфраструктуры (Python) в Маркет",
+        "employer": "Яндекс",
+        "link": "https://hh.ru/vacancy/79922146"
+    },
+    {
+        "name": "Data engineer (Python Hadoop Spark)",
+        "employer": "X5 Tech",
+        "link": "https://hh.ru/vacancy/79920830"
+    },
+    {
+        "name": "Junior python разработчик в крипто-стартап",
         "salary_min": 50000,
-        "salary_max": null,
-        "employer": "Цифровые решения, НПП",
-        "link": "https://hh.ru/vacancy/79789224"
+        "salary_max": 90000,
+        "employer": "ДенЛеДа",
+        "link": "https://hh.ru/vacancy/79929607"
     },
     {
-        "name": "Middle Python разработчик (Django)",
-        "employer": "Justice IT",
-        "link": "https://hh.ru/vacancy/78951812"
+        "name": "Разработчик Python (Middle, Senior)",
+        "employer": "NGENIX",
+        "link": "https://hh.ru/vacancy/55088580"
     },
     {
-        "name": "Разработчик python middle",
-        "employer": "Eqvanta",
-        "link": "https://hh.ru/vacancy/79718797"
+        "name": "Стажер Python-разработчик (GigaChat)",
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/79906367"
     },
     {
-        "name": "Python разработчик middle (удаленно)",
-        "salary_min": 90000,
-        "salary_max": null,
-        "employer": "Ассоциация Когнитивно-Поведенческой Психотерапии",
-        "link": "https://hh.ru/vacancy/79338937"
+        "name": "Python Developer",
+        "employer": "Saber Interactive",
+        "link": "https://hh.ru/vacancy/76498335"
     },
     {
-        "name": "Программист-разработчик",
-        "salary_min": 150000,
-        "salary_max": 300000,
-        "employer": "Реверслаб",
-        "link": "https://hh.ru/vacancy/78363305"
-    },
-    {
-        "name": "Python разработчик fullstack",
-        "salary_min": 100000,
-        "salary_max": 250000,
-        "employer": "ЦОМИА ИНФО ПРО",
-        "link": "https://hh.ru/vacancy/79878193"
-    },
-    {
-        "name": "Python-разработчик",
-        "employer": "Тинькофф",
-        "link": "https://hh.ru/vacancy/79711863"
+        "name": "Python developer",
+        "salary_min": null,
+        "salary_max": 290000,
+        "employer": "BLACKHUB GAMES",
+        "link": "https://hh.ru/vacancy/77232338"
     },
     {
         "name": "Python Middle Backend Developer (FastAPI)",
         "employer": "DEV-STACK",
         "link": "https://hh.ru/vacancy/79776017"
+    },
+    {
+        "name": "Python разработчик",
+        "employer": "ГКУ Инфогород",
+        "link": "https://hh.ru/vacancy/79890518"
+    },
+    {
+        "name": "Python разработчик",
+        "salary_min": null,
+        "salary_max": 250000,
+        "employer": "Kvando Technologies",
+        "link": "https://hh.ru/vacancy/79742922"
+    },
+    {
+        "name": "Middle+ / Senior Python Fullstack Developer (Django + React)",
+        "employer": "Новео",
+        "link": "https://hh.ru/vacancy/79934011"
+    },
+    {
+        "name": "Team lead / Senior Software Engineer (Python)",
+        "salary_min": 300000,
+        "salary_max": null,
+        "employer": "SMMplanner",
+        "link": "https://hh.ru/vacancy/79111041"
+    },
+    {
+        "name": "Python Developer",
+        "employer": "Бережная Кристина Васильевна",
+        "link": "https://hh.ru/vacancy/79739114"
+    },
+    {
+        "name": "QA Engineer / Тестировщик со знанием Python",
+        "employer": "Протей, НТЦ",
+        "link": "https://hh.ru/vacancy/79261513"
+    },
+    {
+        "name": "Разработчик Python",
+        "employer": "ДА-ТИМ",
+        "link": "https://hh.ru/vacancy/79667895"
+    },
+    {
+        "name": "Python Developer (Backend) - разработчик Питон (Team Lead)",
+        "employer": "Абарус",
+        "link": "https://hh.ru/vacancy/79542409"
+    },
+    {
+        "name": "Python developer",
+        "employer": "НПФ ЭВОЛЮЦИЯ",
+        "link": "https://hh.ru/vacancy/70093763"
+    },
+    {
+        "name": "Python-разработчик",
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/78838620"
+    },
+    {
+        "name": "Разработчик Python",
+        "employer": "S8 Capital",
+        "link": "https://hh.ru/vacancy/79879806"
+    },
+    {
+        "name": "Backend разработчик Middle +, Senior (Python)",
+        "salary_min": 200000,
+        "salary_max": null,
+        "employer": "Инновационный центр КАМАЗ",
+        "link": "https://hh.ru/vacancy/77987153"
+    },
+    {
+        "name": "Программист С++ со знанием Python (Gamedev)",
+        "employer": "Eagle Dynamics",
+        "link": "https://hh.ru/vacancy/79916684"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary_min": 110000,
+        "salary_max": 170000,
+        "employer": "Spectr",
+        "link": "https://hh.ru/vacancy/79454993"
+    },
+    {
+        "name": "Python разработчик",
+        "employer": "Бэнкс Софт Системс",
+        "link": "https://hh.ru/vacancy/79870794"
+    },
+    {
+        "name": "Программист Python",
+        "employer": "Ceramic3d",
+        "link": "https://hh.ru/vacancy/78704765"
+    },
+    {
+        "name": "Backend-разработчик, Python",
+        "employer": "Терабит",
+        "link": "https://hh.ru/vacancy/78860297"
+    },
+    {
+        "name": "Middle / Senior QA Automation Engineer (Python)",
+        "employer": "СБЕР",
+        "link": "https://hh.ru/vacancy/79912029"
     }
 ]
